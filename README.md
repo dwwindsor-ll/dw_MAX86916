@@ -1,2 +1,2 @@
 # dw_MAX86916
-Designworks MAX86916 Pulse and Proximity Sensor Library
+MAX86916 Pulse and Proximity Sensor Library based on SparkFun MAX301x Particle Sensor Library
